@@ -11,6 +11,9 @@ echo 'Testing..'
 }        }        
 stage('Deploy') {     
 steps {               
-echo 'Deploying....'       
+echo 'Deploying....' 
+echo 'jughjk'
 }    
 }    }}
+
+    
